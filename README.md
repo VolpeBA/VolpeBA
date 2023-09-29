@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VolpeBA
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Kotlin and Android!
-- 📫 How to reach me [...](https://www.linkedin.com/in/brunovolpedearaujo/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/brunovolpedearaujo/)
 
 <!---
 VolpeBA/VolpeBA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
