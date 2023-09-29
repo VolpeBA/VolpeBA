@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VolpeBA
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS e JS
+- 🌱 I’m currently learning Kotlin and Android!
 - 📫 How to reach me [...](https://www.linkedin.com/in/brunovolpedearaujo/)
 
 <!---
