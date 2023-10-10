@@ -6,9 +6,10 @@
 <br>
 - 📫 How to reach me: bruno.volpe2015@gmail.com <br>
 </p>
-<h3 align="center">Connect with me:</h3>
+
+<h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/brunovolpedearaujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunovolpedearaujo" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/brunovolpedearaujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
