@@ -2,7 +2,7 @@
 <h3 align="center">Front-end and Back-end developer</h3>
 <p align="center"
 <br>
-- 🌱 I'm currently learning Elixir, Java and Kotlin for Android development.
+- 🌱 I'm currently learning Java, Javascript for Web Development.
 <br>
 - 📫 How to reach me: bruno.volpe2015@gmail.com <br>
 </p>
