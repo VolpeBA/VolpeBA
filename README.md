@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo Java, JavaFX e Spring Boot.
 
-- 📫 E-mail para contato: **bruno.volpe2015@gmail.com**
+- 📫 E-mail para contato: bruno.volpe2015@gmail.com
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador iuriCode">
 
