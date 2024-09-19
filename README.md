@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, seja bem vindo!</h1>
 
-- 🌱 Atualmente estou aprendendo Java, JavaFX, React e Next.
+- 🌱 Atualmente estou aprendendo Java, JavaFX, Spring Boot.
 
 - 📫 E-mail para contato: bruno.volpe2015@gmail.com
 
